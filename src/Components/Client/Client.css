@@ -1,0 +1,34 @@
+.contain{
+    max-width: 400px;
+    min-height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    color: red;
+}
+
+h4{
+    color: green;
+}
+h5{
+    color: white;
+}
+
+.head{
+    background: rgb(30, 193, 242);
+    border-radius: 10px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    margin-bottom: 0 !important;
+}
+
+.answer-input{
+    margin-top: 1rem;
+}
